@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:alpha="1"
+    android:antialias="true"
+    android:dither="true"
+    android:filter="true"
+    android:gravity="clip_vertical"
+    android:src="@drawable/eee"
+    android:tint="#fc747e"
+    android:tintMode="src_over"/>

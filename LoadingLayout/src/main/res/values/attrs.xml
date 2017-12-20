@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingFrameLayout">
+        <attr name="imgLoadView" format="reference"/>
+        <attr name="animLoadView" format="reference"/>
+        <attr name="mErrorView" format="reference"/>
+        <attr name="mEmptyView" format="reference"/>
+        <attr name="emptyDrawable" format="reference"/>
+    </declare-styleable>
+</resources>
